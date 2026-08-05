@@ -1,5 +1,26 @@
-# 💫 About Me:
-Hi, I'm Rashmiranjan Ping, a Computer Science and Engineering student at IIIT DM Kancheepuram, passionate about technology and innovation. <br>With hands-on experience in machine learning and artificial intelligence.<br>I’ve engineered solutions like a multi-model speech emotion recognition system and a stress detection model integrating speech emotion recognition.
+# 💫 About Me
+
+Hi, I'm **Rashmiranjan Ping** 👋
+
+🎓 I'm currently pursuing an **M.Tech in Data Analytics** at **IIT (ISM) Dhanbad**, after completing my **B.Tech in Computer Science and Engineering** from **IIITDM Kancheepuram**.
+
+💡 I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Computer Vision**. I enjoy building intelligent systems that solve real-world problems and continuously exploring the latest advancements in AI.
+
+🚀 My experience includes developing projects such as:
+
+* 🎙️ Speech Emotion Recognition using Deep Learning
+* 🖼️ Image Caption Generation using CNN-LSTM Architecture
+* 😌 Multimodal Stress Detection using Speech and Facial Expressions
+* 📊 Sentiment Analysis and Predictive Machine Learning Models
+
+💻 I primarily work with **Python, TensorFlow, PyTorch, Scikit-learn, SQL, and Streamlit**, and I'm always eager to learn new technologies and frameworks.
+
+🌱 Currently, I'm focusing on **Deep Learning, Generative AI, Large Language Models (LLMs), Computer Vision, and MLOps**, while preparing for software engineering and data science roles.
+
+🤝 I'm always open to collaborating on exciting AI, Machine Learning, and Data Science projects, as well as contributing to open-source initiatives.
+
+📫 Feel free to connect with me and explore my projects!
+
 
 
 ## 🌐 Socials:
