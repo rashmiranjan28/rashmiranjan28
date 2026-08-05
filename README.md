@@ -4,22 +4,9 @@ Hi, I'm **Rashmiranjan Ping** 👋
 
 🎓 I'm currently pursuing an **M.Tech in Data Analytics** at **IIT (ISM) Dhanbad**, after completing my **B.Tech in Computer Science and Engineering** from **IIITDM Kancheepuram**.
 
-💡 I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Computer Vision**. I enjoy building intelligent systems that solve real-world problems and continuously exploring the latest advancements in AI.
+💡 I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**. I enjoy building intelligent solutions for real-world problems through data-driven approaches and continuously learning new technologies.
 
-🚀 My experience includes developing projects such as:
-
-* 🎙️ Speech Emotion Recognition using Deep Learning
-* 🖼️ Image Caption Generation using CNN-LSTM Architecture
-* 😌 Multimodal Stress Detection using Speech and Facial Expressions
-* 📊 Sentiment Analysis and Predictive Machine Learning Models
-
-💻 I primarily work with **Python, TensorFlow, PyTorch, Scikit-learn, SQL, and Streamlit**, and I'm always eager to learn new technologies and frameworks.
-
-🌱 Currently, I'm focusing on **Deep Learning, Generative AI, Large Language Models (LLMs), Computer Vision, and MLOps**, while preparing for software engineering and data science roles.
-
-🤝 I'm always open to collaborating on exciting AI, Machine Learning, and Data Science projects, as well as contributing to open-source initiatives.
-
-📫 Feel free to connect with me and explore my projects!
+🚀 I'm actively exploring **Computer Vision, Generative AI, Large Language Models (LLMs), and MLOps**, while seeking opportunities to contribute to impactful AI and Data Science projects.
 
 
 
